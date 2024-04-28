@@ -8,6 +8,7 @@ git remove <repo-name> --> Disconnects the remote from the local repository
 
 ## Branch
 git branch -r --> Lists all the remote branches
+git branch -m master main --> change the name of branch master to main  
 
 ## Commits
 git reset --hard 7d544a1b0ca6ca5515aae6750905494df82e0c29 --> Reset your local or remote to a Commit (hash)
